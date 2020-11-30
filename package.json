@@ -1,0 +1,14 @@
+{
+  "name": "infsyslab",
+  "version": "1.0.0",
+  "description": "LR ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "less": "file:less"
+  }
+}
